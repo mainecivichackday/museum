@@ -1,0 +1,28 @@
+{
+  "name": "museum",
+  "title": "Museum",
+  "description": "A website for http://www.bangormuseum.org/",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mainecivichackday/museum",
+  "author": {
+    "name": "jacquestardie",
+    "email": "jacquestardie@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mainecivichackday/museum.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mainecivichackday/museum/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jade": "~0.5.0",
+    "grunt-contrib-stylus": "~0.5.0",
+    "grunt-contrib-watch": "~0.3.1"
+  },
+  "keywords": []
+}
